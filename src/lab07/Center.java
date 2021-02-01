@@ -44,6 +44,7 @@ public class Center implements ICenter {
 		// TODO Auto-generated method
 		System.out.println("XD");
 		System.out.println("1234 xd");
+		System.out.println("q23wqdqwqadwd");
 		
 	}
 

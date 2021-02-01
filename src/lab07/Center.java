@@ -43,6 +43,7 @@ public class Center implements ICenter {
 	public void signOut(int visitorId) throws RemoteException, CustomException {
 		// TODO Auto-generated method
 		System.out.println("XD");
+		System.out.println("1234 xd");
 		
 	}
 

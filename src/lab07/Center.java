@@ -41,7 +41,8 @@ public class Center implements ICenter {
 
 	@Override
 	public void signOut(int visitorId) throws RemoteException, CustomException {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method
+		System.out.println("XD");
 		
 	}
 

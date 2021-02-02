@@ -1,4 +1,4 @@
 module myexhibition {
 	requires transitive exhibition;
-	exports lab07;
+	exports myexhibition;
 }

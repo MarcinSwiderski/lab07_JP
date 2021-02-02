@@ -1,4 +1,4 @@
-package lab07;
+package myexhibition;
 
 import java.rmi.NotBoundException;
 import java.rmi.RemoteException;

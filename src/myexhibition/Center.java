@@ -1,4 +1,4 @@
-package lab07;
+package myexhibition;
 
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
